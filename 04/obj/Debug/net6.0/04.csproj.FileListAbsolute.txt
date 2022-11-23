@@ -1,0 +1,15 @@
+G:\Git out\DZSeminarC6\DZ\04\bin\Debug\net6.0\04.exe
+G:\Git out\DZSeminarC6\DZ\04\bin\Debug\net6.0\04.deps.json
+G:\Git out\DZSeminarC6\DZ\04\bin\Debug\net6.0\04.runtimeconfig.json
+G:\Git out\DZSeminarC6\DZ\04\bin\Debug\net6.0\04.dll
+G:\Git out\DZSeminarC6\DZ\04\bin\Debug\net6.0\04.pdb
+G:\Git out\DZSeminarC6\DZ\04\obj\Debug\net6.0\04.csproj.AssemblyReference.cache
+G:\Git out\DZSeminarC6\DZ\04\obj\Debug\net6.0\04.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git out\DZSeminarC6\DZ\04\obj\Debug\net6.0\04.AssemblyInfoInputs.cache
+G:\Git out\DZSeminarC6\DZ\04\obj\Debug\net6.0\04.AssemblyInfo.cs
+G:\Git out\DZSeminarC6\DZ\04\obj\Debug\net6.0\04.csproj.CoreCompileInputs.cache
+G:\Git out\DZSeminarC6\DZ\04\obj\Debug\net6.0\04.dll
+G:\Git out\DZSeminarC6\DZ\04\obj\Debug\net6.0\refint\04.dll
+G:\Git out\DZSeminarC6\DZ\04\obj\Debug\net6.0\04.pdb
+G:\Git out\DZSeminarC6\DZ\04\obj\Debug\net6.0\04.genruntimeconfig.cache
+G:\Git out\DZSeminarC6\DZ\04\obj\Debug\net6.0\ref\04.dll
